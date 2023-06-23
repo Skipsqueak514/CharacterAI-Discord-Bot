@@ -1,6 +1,6 @@
 {
-    "discord_bot_token": "_YOUR_DISCORD_TOKEN_",
-    "char_ai_user_token": "_YOUR_USER_TOKEN_",
+    "discord_bot_token": "MTA4Nzc2MTc5NjA0MTAzNTk3OA.GmHhzq.JRa12mlQZXhBcl--F2uIOV7_XUrHNw5wuhnxjw",
+    "char_ai_user_token": "238a9838306056737b3bd85317eabc111fdfb393",
 
     "discord_bot_role": "Manage Character",
     "discord_bot_prefixes": [ ".ai ", "!!" ],
